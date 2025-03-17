@@ -22,26 +22,6 @@ Animation: CSS animations for hover effects
 
 State Management: React Hooks (useState, useEffect)
 
-
-📂 Folder Structure:
-portfolio/
-│── public/
-│── src/
-│   ├── components/
-│   │   ├── Hero/
-│   │   ├── Experience/
-│   │   ├── Projects/
-│   │   ├── Contact/
-│   ├── data/
-│   │   ├── skills.json
-│   │   ├── history.json
-│   ├── utils/
-│   ├── styles/
-│   ├── App.js
-│   ├── index.js
-│── package.json
-│── README.md
-
 🛠️ Installation & Setup
 
 Clone the repository:
