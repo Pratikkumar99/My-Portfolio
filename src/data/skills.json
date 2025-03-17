@@ -1,0 +1,47 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png",
+      "skillPercent" :"98%"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png",
+      "skillPercent" :"90%"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png",
+      "skillPercent" :"70%"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc":"skills/javaScript.png",
+        "skillPercent" :"80%"
+    },
+    {
+      "title": "Express",
+      "imageSrc": "skills/express.png",
+      "skillPercent" :"70%"
+    },
+    {
+      "title": "TypeScript",
+      "imageSrc": "skills/typescript.png",
+      "skillPercent" :"40%"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png",
+      "skillPercent" :"70%"
+    },
+    {
+      "title": "Tailwind CSS",
+      "imageSrc": "skills/tailwind.png",
+      "skillPercent" :"80%"
+    },
+    {
+        "title": "Postman",
+        "imageSrc": "skills/postman.png",
+        "skillPercent" :"80%"
+    }
+  ]

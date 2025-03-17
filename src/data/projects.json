@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Share with Care",
+      "imageSrc": "projects/Project1.png",
+      "description": "Share with Care is a web-based platform designed to reduce food waste and ensure surplus food reaches those in need. It connects restaurants, hotels, and messes with NGOs, allowing them to donate or sell excess food at minimal costs",
+      "skills": ["HTML","BootStrap","JavaScript","Express","MongoDB"],
+      "demo": "https://sharewithcare-9rf6.onrender.com/",
+      "source": "https://github.com/Pratikkumar99/Share-with-care/"
+    },
+    {
+      "title": "Extra-Pro-Calculator",
+      "imageSrc": "projects/extra-pro-calc.png",
+      "description": "The Colorful Calculator is a sleek and user-friendly web-based calculator with multiple color themes to enhance the user experience. It performs basic arithmetic operations while allowing users to switch between vibrant color modes for a personalized touch.",
+      "skills": ["HTML","CSS","JavaScript"],
+      "demo": "https://extraprocalculator.netlify.app/",
+      "source": "https://github.com/Pratikkumar99/Calculator"
+    },
+    {
+      "title": "TodoList",
+      "imageSrc": "projects/todoapp.png",
+      "description": "The To-Do List App is a minimalistic and user-friendly task management application that allows users to add, remove their daily tasks efficiently.",
+      "skills": ["HTML","CSS","JavaScript"],
+      "demo": "https://todolistbypratikk.netlify.app/",
+      "source": "https://github.com/Pratikkumar99/Todo-app"
+    }
+  ]
