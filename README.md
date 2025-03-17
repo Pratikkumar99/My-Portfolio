@@ -25,7 +25,7 @@ State Management: React Hooks (useState, useEffect)
 🛠️ Installation & Setup
 
 Clone the repository:
-git clone https://github.com/yourusername/your-portfolio.git
+git clone https: https://github.com/Pratikkumar99/My-Portfolio
 
 cd your-portfolio
 
@@ -51,8 +51,8 @@ View Live Portfolio
 📬 Contact Me
 Feel free to connect with me:
 
-Email: your-email@example.com
+Email: pratikk12093@gmail.com
 
-LinkedIn: Your Profile
+LinkedIn: https://www.linkedin.com/in/pratik-kumar-41a936293/
 
-GitHub: Your GitHub
+GitHub: https://github.com/Pratikkumar99/
