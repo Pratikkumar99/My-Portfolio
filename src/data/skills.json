@@ -25,9 +25,9 @@
       "skillPercent" :"70%"
     },
     {
-      "title": "TypeScript",
-      "imageSrc": "skills/typescript.png",
-      "skillPercent" :"40%"
+      "title": "php",
+      "imageSrc": "skills/php.png",
+      "skillPercent" :"80%"
     },
     {
       "title": "MongoDB",
@@ -35,13 +35,13 @@
       "skillPercent" :"70%"
     },
     {
-      "title": "Tailwind CSS",
-      "imageSrc": "skills/tailwind.png",
-      "skillPercent" :"80%"
+      "title": "MySQL",
+      "imageSrc": "skills/mysql.png",
+      "skillPercent" :"90%"
     },
     {
-        "title": "Postman",
-        "imageSrc": "skills/postman.png",
+        "title": "Bootstrap",
+        "imageSrc": "skills/bootstrap.png",
         "skillPercent" :"80%"
     }
   ]

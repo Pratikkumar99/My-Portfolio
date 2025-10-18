@@ -6,5 +6,13 @@
       "endDate": "Sept, 2024",
       "experiences": ["Worked on Frontend Skills like HTML, CSS", "Also worked on the javaScript and git/github to manage the code."],
       "imageSrc": "history/Prodigy.jpg"
+    },
+    {
+      "role": "Full Stack Developer Intern",
+      "organisation": "Ai4Chat ( Digital Guruji)",
+      "startDate": "Apr, 2025",
+      "endDate": "Oct, 2024",
+      "experiences": ["I developed a full-stack web application using HTML, CSS, and JavaScript for a responsive and interactive frontend.","On the backend, I integrated AWS APIs for secure user data storage and fast login/signup functionality, while efficiently handling CORS to ensure smooth frontend–backend communication."," The project leverages Replicate APIs to generate text-to-video and image-to-video content, along with the Text-to-Video API by Digital Guruji for enhanced video generation. Overall, it’s a scalable, cloud-based platform combining intuitive design, robust authentication, and powerful AI-driven media creation"],
+      "imageSrc": "history/ai4chat.jpg"
     }
   ]
