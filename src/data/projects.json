@@ -5,7 +5,7 @@
       "description": ["PG Life is a web platform designed to help students and professionals easily find and manage paying guest (PG) accommodations. The site provides a simple and user-friendly experience where users can explore available properties, view details such as location, pricing, and amenities, and register or log in to access personalized features."],
       "skills": ["HTML","CSS","BootStrap","JavaScript","PHP","MySQL"],
       "demo": "http://pg-life.kesug.com/",
-      "source": "https://github.com/Pratikkumar99/Share-with-care/"
+      "source": "https://github.com/Pratikkumar99/php-project-pg-life"
     },
     {
       "title": "Share with Care",
