@@ -9,22 +9,49 @@ export const Contact = () => {
       <div className={styles.text}>
         <h3>Contact</h3>
         <p>Feel free to reach out!</p>
+
+        <a
+          href="https://portfolio-feedback.zapier.app/"
+          className={styles.special_link}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          leave your valuable feedback
+        </a>
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
           <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
-          <a href="mailto:pratikk12093@gmail.com">pratikk12093@gmail.com</a>
+          <a
+            href="mailto:pratikk12093@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            pratikk12093@gmail.com
+          </a>
         </li>
         <li className={styles.link}>
           <img
             src={getImageUrl("contact/linkedinIcon.png")}
             alt="LinkedIn icon"
           />
-          <a href="https://www.linkedin.com/in/pratik-kumar-41a936293/">linkedin.com/pratik-kumar</a>
+          <a
+            href="https://www.linkedin.com/in/pratik-kumar-41a936293/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            linkedin.com/pratik-kumar
+          </a>
         </li>
         <li className={styles.link}>
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
-          <a href="https://github.com/Pratikkumar99">github.com/Pratikkumar99</a>
+          <a
+            href="https://github.com/Pratikkumar99"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            github.com/Pratikkumar99
+          </a>
         </li>
       </ul>
     </footer>

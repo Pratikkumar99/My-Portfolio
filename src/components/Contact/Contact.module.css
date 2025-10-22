@@ -23,7 +23,21 @@
   font-weight: 400;
   letter-spacing: 2px;
 }
-
+.special_link{
+  color: var(--color-text);
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 5px 10px 5px 10px;
+  margin-top: 15px;
+  background: linear-gradient(
+      0deg,
+      rgba(34, 111, 255, 0.2) 0%,
+      rgb(39, 92, 189) 100%
+    );
+}
+.special_link:hover{
+  background-color :rgb(31, 126, 235);
+}
 .links {
   display: flex;
   flex-direction: column;
