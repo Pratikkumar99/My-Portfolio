@@ -16,6 +16,14 @@
       "source": "https://github.com/Pratikkumar99/Share-with-care/"
     },
     {
+      "title": "PT Adventure Game",
+      "imageSrc": "projects/project2.png",
+      "description": "Pikachu Torch Adventure is something new and a small, browser-based arcade game. Move Pikachu with your mouse to collect coins, avoid bombs, grab power-ups, find the level key, and upgrade your torch for an enhanced view and bonuses.",
+      "skills": ["HTML","CSS","JavaScript","google fonts"],
+      "demo": "https://pt-adventure.netlify.app/",
+      "source": "https://github.com/Pratikkumar99/Pikachu-Torch-Adventure"
+    },
+    {
       "title": "Extra-Pro-Calculator",
       "imageSrc": "projects/extra-pro-calc.png",
       "description": "The Colorful Calculator is a sleek and user-friendly web-based calculator with multiple color themes to enhance the user experience. It performs basic arithmetic operations while allowing users to switch between vibrant color modes for a personalized touch.",
