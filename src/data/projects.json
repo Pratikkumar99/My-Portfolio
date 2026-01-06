@@ -24,6 +24,14 @@
       "source": "https://github.com/Pratikkumar99/Pikachu-Torch-Adventure"
     },
     {
+      "title": "Gemini integration",
+      "imageSrc": "projects/project3.png",
+      "description": "A lightweight, production-ready starter template for integrating Google Gemini 3 / 2.5 models into a Node.js environment using Express.",
+      "skills": ["NodeJs","Express.js","Gemini 2.5 Flash Integration"],
+      "demo": "https://github.com/Pratikkumar99/gemini-nodejs",
+      "source": "https://github.com/Pratikkumar99/gemini-nodejs"
+    },
+    {
       "title": "Extra-Pro-Calculator",
       "imageSrc": "projects/extra-pro-calc.png",
       "description": "The Colorful Calculator is a sleek and user-friendly web-based calculator with multiple color themes to enhance the user experience. It performs basic arithmetic operations while allowing users to switch between vibrant color modes for a personalized touch.",

@@ -9,16 +9,37 @@ export const Contact = () => {
       <div className={styles.text}>
         <h3>Contact</h3>
         <p>Feel free to reach out!</p>
-
-        <a
+      </div>
+      <ul className={styles.links}>
+         <a
           href="https://portfolio-feedback.zapier.app/"
           className={styles.special_link}
           target="_blank"
           rel="noopener noreferrer"
         >
-          leave your valuable feedback
+          click here for your valuable feedback
         </a>
-      </div>
+        <li className={styles.link}>
+          <img src={getImageUrl("contact/leetcodeicon.png")} alt="leetcode icon" />
+          <a
+            href="https://leetcode.com/u/Pratik_kumar99/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            leetcode/Pratik_kumar99
+          </a>
+        </li>
+        <li className={styles.link}>
+          <img src={getImageUrl("contact/xicon.png")} alt="x icon" />
+          <a
+            href="https://x.com/newHackker"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            x.com/newHackker
+          </a>
+        </li>
+      </ul>
       <ul className={styles.links}>
         <li className={styles.link}>
           <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
