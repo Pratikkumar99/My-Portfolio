@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
+import splineTool from "./spline";
 
 export const Hero = () => {
   const roles = [
@@ -38,7 +39,7 @@ export const Hero = () => {
 
     const timer = setTimeout(
       handleTyping,
-      isDeleting ? deletingSpeed : typingSpeed
+      isDeleting ? deletingSpeed : typingSpeed,
     );
 
     return () => clearTimeout(timer);
@@ -58,17 +59,24 @@ export const Hero = () => {
           <a href="mailto:pratikk12093@gmail.com" className={styles.contactBtn}>
             Contact Me
           </a>
-          <a href="https://drive.google.com/file/d/1m4EtjCCq3LaLtdqtsjBKcBv03MZHIXcB/view?usp=drive_link" download className={styles.downloadBtn} target="_blank"
-  rel="noopener noreferrer">
+          <a
+            href="https://drive.google.com/file/d/1m4EtjCCq3LaLtdqtsjBKcBv03MZHIXcB/view?usp=drive_link"
+            download
+            className={styles.downloadBtn}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Download My CV
           </a>
         </div>
       </div>
-      <img
-        src={getImageUrl("hero/heroImage.jpg")}
-        alt="Hero image of me"
-        className={styles.heroImg}
-      />
+      
+        <img
+          src={getImageUrl("hero/heroImage.jpg")}
+          alt="Hero image of me"
+          className={styles.heroImg}
+        />
+
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section>
