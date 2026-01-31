@@ -60,7 +60,7 @@ export const Hero = () => {
             Contact Me
           </a>
           <a
-            href="https://drive.google.com/file/d/1m4EtjCCq3LaLtdqtsjBKcBv03MZHIXcB/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1Wk0HuTDL-fyee72S8EaIwmV_a4rD4nCD/view?usp=sharing"
             download
             className={styles.downloadBtn}
             target="_blank"
