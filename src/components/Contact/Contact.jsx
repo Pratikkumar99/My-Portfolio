@@ -1,26 +1,32 @@
 import React from "react";
-
 import styles from "./Contact.module.css";
 import { getImageUrl } from "../../utils";
 
 export const Contact = () => {
   return (
     <footer id="contact" className={styles.container}>
+      {/* LEFT TEXT */}
       <div className={styles.text}>
         <h3>Contact</h3>
         <p>Feel free to reach out!</p>
-      </div>
-      <ul className={styles.links}>
-         <a
+
+        <a
           href="https://portfolio-feedback.zapier.app/"
-          className={styles.special_link}
+          className={styles.specialLink}
           target="_blank"
           rel="noopener noreferrer"
         >
-          click here for your valuable feedback
+          Click here for your valuable feedback
         </a>
+      </div>
+
+      {/* LINKS COLUMN 1 */}
+      <ul className={styles.links}>
         <li className={styles.link}>
-          <img src={getImageUrl("contact/leetcodeicon.png")} alt="leetcode icon" />
+          <img
+            src={getImageUrl("contact/leetcodeicon.png")}
+            alt="LeetCode icon"
+          />
           <a
             href="https://leetcode.com/u/Pratik_kumar99/"
             target="_blank"
@@ -29,8 +35,9 @@ export const Contact = () => {
             leetcode/Pratik_kumar99
           </a>
         </li>
+
         <li className={styles.link}>
-          <img src={getImageUrl("contact/xicon.png")} alt="x icon" />
+          <img src={getImageUrl("contact/xicon.png")} alt="X icon" />
           <a
             href="https://x.com/newHackker"
             target="_blank"
@@ -40,17 +47,16 @@ export const Contact = () => {
           </a>
         </li>
       </ul>
+
+      {/* LINKS COLUMN 2 */}
       <ul className={styles.links}>
         <li className={styles.link}>
           <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
-          <a
-            href="mailto:pratikk12093@gmail.com"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <a href="mailto:pratikk12093@gmail.com">
             pratikk12093@gmail.com
           </a>
         </li>
+
         <li className={styles.link}>
           <img
             src={getImageUrl("contact/linkedinIcon.png")}
@@ -64,8 +70,9 @@ export const Contact = () => {
             linkedin.com/pratik-kumar
           </a>
         </li>
+
         <li className={styles.link}>
-          <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
+          <img src={getImageUrl("contact/githubIcon.png")} alt="GitHub icon" />
           <a
             href="https://github.com/Pratikkumar99"
             target="_blank"

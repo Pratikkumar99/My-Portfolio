@@ -14,13 +14,74 @@
   text-transform: uppercase;
 }
 
-.projects {
-  margin-top: 37px;
+.wrapper {
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
   align-items: center;
-  justify-content: center;
+  margin-top: 37px;
+}
+
+.projects {
+  display: flex;
   gap: 15px;
   width: 100%;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  scroll-snap-type: x mandatory;
+}
+
+.projects::-webkit-scrollbar {
+  display: none;
+}
+
+/* ARROWS (desktop default) */
+.arrow {
+  background: transparent;
+  border: none;
+  color: #576cbc;
+  font-size: 80px;
+  cursor: pointer;
+  padding: 0 10px;
+}
+
+.arrow:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+/* DOTS */
+.dots {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  gap: 10px;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  background: #aaa;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.activeDot {
+  background: var(--color-primary);
+  transform: scale(1.2);
+}
+
+/* MOBILE ONLY */
+@media (max-width: 768px) {
+  .arrow {
+    display: none;
+  }
+
+  .container {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .projects {
+    width: 100%;
+  }
 }

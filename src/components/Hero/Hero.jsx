@@ -7,7 +7,7 @@ export const Hero = () => {
   const roles = [
     "Full Stack Developer",
     "PHP Developer",
-    "React Developer",
+    "Next.Js Developer",
     "Backend Developer",
     "MERN Stack Developer",
   ];
@@ -56,7 +56,7 @@ export const Hero = () => {
           </p>
         </div>
         <div className={styles.buttons}>
-          <a href="mailto:pratikk12093@gmail.com" className={styles.contactBtn}>
+          <a href="#contact" className={styles.contactBtn}>
             Contact Me
           </a>
           <a
