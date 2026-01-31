@@ -40,8 +40,8 @@
       "skillPercent" :"90%"
     },
     {
-        "title": "Bootstrap",
-        "imageSrc": "skills/bootstrap.png",
+        "title": "Next.js",
+        "imageSrc": "skills/nextjs.png",
         "skillPercent" :"80%"
     }
   ]
