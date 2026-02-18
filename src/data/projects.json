@@ -1,7 +1,7 @@
 [
     {
       "title": "DormAce : HOSTEL-MART",
-      "imageSrc": "projects/dormAce.jpeg",
+      "imageSrc": "projects/Dlogo.jpeg",
       "description": ["DormAce is a digital platform designed to simplify hostel life by providing a structured and secure marketplace for students. It enables residents to buy, sell, and request items within their hostel community, replacing unorganized group-based trading with a smart and efficient system."],
       "skills": ["Next.js","React","TypeScript","Tailwind CSS", "shadcn/ui", "Supabase"],
       "demo": "https://hoste-mart-dgcz.vercel.app/",
