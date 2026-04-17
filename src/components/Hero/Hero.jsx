@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
-import splineTool from "./spline";
 
 export const Hero = () => {
   const roles = [
@@ -70,12 +69,19 @@ export const Hero = () => {
           </a>
         </div>
       </div>
-      
+
+      <div className={styles.imageWrapper}>
         <img
           src={getImageUrl("hero/heroImage.jpg")}
-          alt="Hero image of me"
-          className={styles.heroImg}
+          alt="Hero front"
+          className={styles.imgFront}
         />
+        <img
+          src={getImageUrl("hero/hoverhero.png")} // second image
+          alt="Hero hover"
+          className={styles.imgBack}
+        />
+      </div>
 
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
