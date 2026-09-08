@@ -25,23 +25,8 @@
       "skillPercent" :"70%"
     },
     {
-      "title": "php",
-      "imageSrc": "skills/php.png",
-      "skillPercent" :"80%"
-    },
-    {
       "title": "MongoDB",
       "imageSrc": "skills/mongodb.png",
       "skillPercent" :"70%"
-    },
-    {
-      "title": "MySQL",
-      "imageSrc": "skills/mysql.png",
-      "skillPercent" :"90%"
-    },
-    {
-        "title": "Next.js",
-        "imageSrc": "skills/nextjs.png",
-        "skillPercent" :"80%"
     }
   ]

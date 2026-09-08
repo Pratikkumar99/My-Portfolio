@@ -5,8 +5,7 @@ import { getImageUrl } from "../../utils";
 export const Hero = () => {
   const roles = [
     "Full Stack Developer",
-    "PHP Developer",
-    "Next.Js Developer",
+    "Frontend Developer",
     "Backend Developer",
     "MERN Stack Developer",
   ];
