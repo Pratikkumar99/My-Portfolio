@@ -1,10 +1,15 @@
 [
-    {
-      "role": "Full Stack Developer Intern",
-      "organisation": "Ai4Chat ( Digital Guruji)",
-      "startDate": "Apr, 2025",
-      "endDate": "Oct, 2024",
-      "experiences": ["I developed a full-stack web application using HTML, CSS, and JavaScript for a responsive and interactive frontend.","On the backend, I integrated AWS APIs for secure user data storage and fast login/signup functionality, while efficiently handling CORS to ensure smooth frontend–backend communication."," The project leverages Replicate APIs to generate text-to-video and image-to-video content, along with the Text-to-Video API by Digital Guruji for enhanced video generation. Overall, it’s a scalable, cloud-based platform combining intuitive design, robust authentication, and powerful AI-driven media creation"],
-      "imageSrc": "history/ai4chat.jpg"
-    }
-  ]
+  {
+    "role": "Full Stack Developer Intern",
+    "organisation": "Ai4Chat ( Digital Guru)",
+    "startDate": "Apr, 2025",
+    "endDate": "Oct, 2024",
+    "experiences": [
+      "Built a responsive web application using HTML, CSS, and JavaScript.",
+      "Used Netlify Serverless Functions for backend API handling and CORS management.",
+      "Integrated APIs for user authentication and secure data handling, with CORS-enabled frontend-backend communication.",
+      "Integrated Replicate and Digital Guru APIs for text-to-video generation."      
+    ],
+    "imageSrc": "history/ai4chat.jpg"
+  }
+]
