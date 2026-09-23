@@ -6,7 +6,7 @@ const certificates = [
   {
     title: "Full Stack Web Development with AI Training",
     issuer: "Internshala",
-    year: "2024",
+    year: "2025",
     image: getImageUrl('certificates/training.png'),
     link: "https://drive.google.com/file/d/1yN0yIIIMk1y6BwGLWUMnXoh_3SXdW05U/view?usp=sharing",
   },
