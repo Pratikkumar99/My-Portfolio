@@ -1,5 +1,15 @@
 [
   {
+    "title": "DormAce - Hostel Management",
+    "imageSrc": "projects/dorm.jpg",
+    "description": "DormAce is a full-stack hostel management platform built using Next.js, TypeScript, and Supabase. It streamlines hostel operations with role-based dashboards for students, wardens, and handlers, featuring attendance tracking, complaint management, a student marketplace, and user communication.",
+    "skills": [
+      "React.js", "Node.js", "Express.js", "MongoDB"
+    ],
+    "demo": "https://dorm-ace.vercel.app/",
+    "source": "https://github.com/Pratikkumar99/DormAce"
+  },
+  {
     "title": "Shopora-Ecommerce",
     "imageSrc": "projects/Project0.png",
     "description": "Shopora is a full-stack e-commerce platform built using the MERN stack. It provides a seamless shopping experience with product browsing, secure authentication, cart management, and order placement, along with an admin interface for managing products and e-commerce operations.",
