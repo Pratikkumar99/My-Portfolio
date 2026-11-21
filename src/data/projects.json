@@ -1,11 +1,23 @@
 [
   {
+    "title": "OmniMate AI",
+    "imageSrc": "projects/omnimate.jpg",
+    "description": "OmniMate AI is a full-stack AI-powered research and document assistant built using the MERN stack.an AI-powered research assistant featuring Gemini chat, PDF-based RAG with Qdrant Cloud, and intent-based retrieval for weather, crypto, and news, along with web search using LangChain and Tavily.",
+    "skills": [
+      "MERN",
+      "RAG",
+      "LangChain",
+      "Tavily",
+      "Qdrant"
+    ],
+    "demo": "https://omnimate-ai-1.onrender.com/",
+    "source": "https://github.com/Pratikkumar99/OmniMate-AI"
+  },
+  {
     "title": "DormAce - Hostel Management",
     "imageSrc": "projects/dorm.jpg",
     "description": "DormAce is a full-stack hostel management platform built using the MERN stack. It streamlines hostel operations with role-based dashboards for students, wardens, and handlers, featuring attendance tracking, complaint management, a student marketplace, and user communication.",
-    "skills": [
-      "React.js", "Node.js", "Express.js", "MongoDB"
-    ],
+    "skills": ["React.js", "Node.js", "Express.js", "MongoDB"],
     "demo": "https://dorm-ace.vercel.app/",
     "source": "https://github.com/Pratikkumar99/DormAce"
   },

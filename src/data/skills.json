@@ -1,32 +1,62 @@
 [
-    {
-      "title": "HTML",
-      "imageSrc": "skills/html.png",
-      "skillPercent" :"98%"
-    },
-    {
-      "title": "CSS",
-      "imageSrc": "skills/css.png",
-      "skillPercent" :"90%"
-    },
-    {
-      "title": "React",
-      "imageSrc": "skills/react.png",
-      "skillPercent" :"70%"
-    },
-    {
-        "title": "JavaScript",
-        "imageSrc":"skills/javaScript.png",
-        "skillPercent" :"80%"
-    },
-    {
-      "title": "Express",
-      "imageSrc": "skills/express.png",
-      "skillPercent" :"70%"
-    },
-    {
-      "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png",
-      "skillPercent" :"70%"
-    }
-  ]
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javaScript.png",
+    "skillPercent": "75%"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/cpp.jpg",
+    "skillPercent": "70%"
+  },
+  {
+    "title": "React.js",
+    "imageSrc": "skills/react.png",
+    "skillPercent": "70%"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/nodejs.jpg",
+    "skillPercent": "65%"
+  },
+  {
+    "title": "Express.js",
+    "imageSrc": "skills/express.png",
+    "skillPercent": "65%"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png",
+    "skillPercent": "65%"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png",
+    "skillPercent": "55%"
+  },
+  {
+    "title": "LLM",
+    "imageSrc": "skills/llm.jpg",
+    "skillPercent": "60%"
+  },
+  {
+    "title": "RAG",
+    "imageSrc": "skills/rag.jpg",
+    "skillPercent": "60%"
+  },
+  {
+    "title": "LangChain",
+    "imageSrc": "skills/langch.jpg",
+    "skillPercent": "50%"
+  },
+  {
+    "title": "Qdrant",
+    "imageSrc": "skills/quadrant.jpg",
+    "skillPercent": "60%"
+  },
+  {
+    "title": "MCP",
+    "imageSrc": "skills/mcp.jpg",
+    "skillPercent": "50%"
+  }
+]

@@ -4,11 +4,13 @@ import { getImageUrl } from "../../utils";
 
 export const Hero = () => {
   const roles = [
-    "Full Stack Developer",
-    "Frontend Developer",
-    "Backend Developer",
-    "MERN Stack Developer",
-  ];
+  "Full Stack Developer",
+  "Frontend Developer",
+  "Backend Developer",
+  "MERN Stack Developer",
+  "AI Application Developer",
+  "LLM Engineer",
+];
 
   const [text, setText] = useState("");
   const [index, setIndex] = useState(0);
